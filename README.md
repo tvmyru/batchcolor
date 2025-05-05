@@ -1,4 +1,7 @@
 # batchcolor
+## Украшательства
+
+![Красота](https://tvmyru.github.io/batchcolor/color-00.png)
 
 ```
 @shift
@@ -137,9 +140,7 @@ set IDP=[7;35m
 set IDC=[7;36m
 set IDW=[7;37m
 ```
-## Украшательства
 
-![Красота](https://tvmyru.github.io/batchcolor/color-00.png)
 
 ## Применение цветовых кодов
 
